@@ -58,7 +58,6 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
 | Design Rationale     | 1.0 | [WhaleBubbleBlower_Design_Rationale](/Documentation/WhaleBubbleBlower_Design_Rationale_v0.1.pdf) |
 | Bill of Materials    | 1.0 | [WhaleBubbleBlower_BOM](/Documentation/WhaleBubbleBlower_BOM_v0.1.xlsx) |
 | Maker Guide       | 1.0 | [WhaleBubbleBlower_Maker_Guide](/Documentation/WhaleBubbleBlower_Maker_Guide_v0.1.pdf) |
