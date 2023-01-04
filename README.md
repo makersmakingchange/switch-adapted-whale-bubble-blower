@@ -26,7 +26,7 @@ The Switch Adapted Whale Bubble Blower is an adapted â€œBalnore Bubble Machineâ€
 PHOTO
 
  --->
-![The switch adapted whale bubble blower with an MMC60 assistive switch.](Photos/Bubble_blower_and_switch.jpg)
+![The switch adapted whale bubble blower with an MMC60 assistive switch.](Photos/Bubble_blower_and_switch.jpeg)
 
 <!--- 
 ## More info at
