@@ -3,6 +3,9 @@
  <!--- TITLE Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
 # Switch Adapted Whale Bubble Blower
 
+> [!IMPORTANT]
+As of 2026-Feb-19, this toy is no longer available to purchase commercially.
+
 <!--- SUMMARY A brief summary of the project. What it does, who it is for, how much it costs.  --->
 The Switch Adapted Whale Bubble Blower is an adapted “Balnore Bubble Machine” that can be activated with a 3.5mm switch. This adaptation is intended for users who have difficulty activating the button on the side of the bubble machine.
 
